@@ -5,3 +5,8 @@ Unagi decided that he its going to start the challenge
 #1/100
 
 Wish Unagi luck.
+
+Unagi have some time learning to code, so far he knows
+HTML, CSS, JS, Python, SQL and a little of C++.
+
+.
