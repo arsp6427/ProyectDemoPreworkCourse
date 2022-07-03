@@ -1,5 +1,14 @@
 body{
-    color: aqua;
+    color: black;
     text-align: center;
     font-family: arial;
+}
+
+#Container
+{
+    width: 70%;
+    padding: lem;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
 }
